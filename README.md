@@ -13,7 +13,7 @@ This system can be used for various traffic management applications, including c
 - **Video Processing**: Supports processing of both pre-recorded video files and live webcam feed 🎥.
 
 ## Requirements 🛠️
-- Python 3.x 🐍
+- Python 3.10 🐍
 - OpenCV 📸
 - YOLOv8 (Ultralytics) 🤖
 - NumPy ➗
