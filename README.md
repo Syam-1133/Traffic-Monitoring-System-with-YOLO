@@ -17,7 +17,7 @@ This system can be used for various traffic management applications, including c
 - OpenCV 📸
 - YOLOv8 (Ultralytics) 🤖
 - NumPy ➗
-- 
+  
 
 
 ## Installation Steps 📦
